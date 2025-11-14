@@ -102,36 +102,6 @@
   </p>
 </div>
 
----
-
-<h3 align="left">📊 GitHub Statistics:</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=danro3&theme=radical&margin-w=15&margin-h=15&column=-1" alt="GitHub Trophies" />
-  </a>
-</p>
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danro3&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="DanRo's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danro3&layout=compact&theme=tokyonight&border_radius=10" alt="DanRo's Top Languages"/>
-</div>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=danro3&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3> Visitors Counter </h3>
-  <a href="https://github.com/DanRo3/DanRo3">
-    <img src="https://profile-counter.glitch.me/danro3/count.svg" alt="Visitors"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <h3>🔗 Connect with me:</h3>
   <p>

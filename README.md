@@ -102,6 +102,9 @@
   </p>
 </div>
 
+ [![danro-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danro-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div align="center">
   <h3>🔗 Connect with me:</h3>
   <p>
